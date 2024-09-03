@@ -1,0 +1,20 @@
+2024-09-02 20:47:56.406 | DEBUG    | __main__:<module>:5 - Um aviso para o desenvolverdor
+2024-09-02 20:47:56.407 | INFO     | __main__:<module>:6 - Informação importante do proceso
+2024-09-02 20:47:56.407 | WARNING  | __main__:<module>:7 - Um aviso que algo vai parar no futuro
+2024-09-02 20:47:56.408 | ERROR    | __main__:<module>:8 - Aconteceu uma falha
+2024-09-02 20:47:56.409 | CRITICAL | __main__:<module>:9 - Aconteceu uma que aborta a aplicação
+2024-09-02 20:47:58.389 | DEBUG    | __main__:<module>:5 - Um aviso para o desenvolverdor
+2024-09-02 20:47:58.394 | INFO     | __main__:<module>:6 - Informação importante do proceso
+2024-09-02 20:47:58.396 | WARNING  | __main__:<module>:7 - Um aviso que algo vai parar no futuro
+2024-09-02 20:47:58.397 | ERROR    | __main__:<module>:8 - Aconteceu uma falha
+2024-09-02 20:47:58.397 | CRITICAL | __main__:<module>:9 - Aconteceu uma que aborta a aplicação
+2024-09-02 20:48:06.489 | DEBUG    | __main__:<module>:5 - Um aviso para o desenvolverdor
+2024-09-02 20:48:06.490 | INFO     | __main__:<module>:6 - Informação importante do proceso
+2024-09-02 20:48:06.490 | WARNING  | __main__:<module>:7 - Um aviso que algo vai parar no futuro
+2024-09-02 20:48:06.491 | ERROR    | __main__:<module>:8 - Aconteceu uma falha
+2024-09-02 20:48:06.491 | CRITICAL | __main__:<module>:9 - Aconteceu uma que aborta a aplicação
+2024-09-02 20:48:07.979 | DEBUG    | __main__:<module>:5 - Um aviso para o desenvolverdor
+2024-09-02 20:48:07.980 | INFO     | __main__:<module>:6 - Informação importante do proceso
+2024-09-02 20:48:07.980 | WARNING  | __main__:<module>:7 - Um aviso que algo vai parar no futuro
+2024-09-02 20:48:07.981 | ERROR    | __main__:<module>:8 - Aconteceu uma falha
+2024-09-02 20:48:07.981 | CRITICAL | __main__:<module>:9 - Aconteceu uma que aborta a aplicação
